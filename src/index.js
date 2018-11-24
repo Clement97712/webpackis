@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <p>react app</p>
+      <p>react app and we use webpack</p>
     </div>
   );
 };
